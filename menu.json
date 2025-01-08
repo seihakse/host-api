@@ -8,7 +8,7 @@
       "favorite": "false",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/food-1.jpg",
+      "image": "/foods/food-1.jpg",
       "tags": ["Pizza"]
     },
     {
@@ -19,7 +19,7 @@
       "favorite": "true",
       "origin": ["persia", "middle east", "china"],
       "stars": 5,
-      "imageUrl": "/foods/Margherita-Pizza.jpg",
+      "image": "/foods/Margherita-Pizza.jpg",
       "tags": ["Pizza"]
     },
     {
@@ -30,7 +30,7 @@
       "favorite": "false",
       "origin": ["germany", "us"],
       "stars": 3.5,
-      "imageUrl": "/foods/hawaiian-pizza.jpg",
+      "image": "/foods/hawaiian-pizza.jpg",
       "tags": ["Pizza"]
     },
     {
@@ -41,7 +41,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/BBQ-Chicken-Pizza.jpg",
+      "image": "/foods/BBQ-Chicken-Pizza.jpg",
       "tags": ["Pizza"]
     },
     {
@@ -52,7 +52,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Buffalo-Wings.jpg",
+      "image": "/foods/Buffalo-Wings.jpg",
       "tags": ["Wings"]
     },
     {
@@ -63,7 +63,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Honney-Garlic-Wings.jpg",
+      "image": "/foods/Honney-Garlic-Wings.jpg",
       "tags": ["Wings"]
     },
     {
@@ -74,7 +74,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Barbecue-Wings.jpg",
+      "image": "/foods/Barbecue-Wings.jpg",
       "tags": ["Wings"]
     },
     {
@@ -85,7 +85,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Lemon-Pepper-Wings.jpg",
+      "image": "/foods/Lemon-Pepper-Wings.jpg",
       "tags": ["Wings"]
     },
     {
@@ -96,7 +96,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/coca.jpg",
+      "image": "/foods/coca.jpg",
       "tags": ["Drinks"]
     },
     {
@@ -107,7 +107,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Sprite.jpg",
+      "image": "/foods/Sprite.jpg",
       "tags": ["Drinks"]
     },
     {
@@ -118,7 +118,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Fanta-Orange.jpg",
+      "image": "/foods/Fanta-Orange.jpg",
       "tags": ["Drinks"]
     },
     {
@@ -129,7 +129,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Water.jpg",
+      "image": "/foods/Water.jpg",
       "tags": ["Drinks"]
     },
     {
@@ -140,7 +140,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Vanilla-Delight.jpg",
+      "image": "/foods/Vanilla-Delight.jpg",
       "tags": ["ice-creams"]
     },
     {
@@ -151,7 +151,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Chocolate-Indulgence.jpg",
+      "image": "/foods/Chocolate-Indulgence.jpg",
       "tags": ["ice-creams"]
     },
     {
@@ -162,7 +162,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Starwberry-Bliss.jpg",
+      "image": "/foods/Starwberry-Bliss.jpg",
       "tags": ["ice-creams"]
     },
     {
@@ -173,7 +173,7 @@
       "favorite": "true",
       "origin": ["italy"],
       "stars": 4.5,
-      "imageUrl": "/foods/Cookies-and-Cream.jpg",
+      "image": "/foods/Cookies-and-Cream.jpg",
       "tags": ["ice-creams"]
     }
   ],
